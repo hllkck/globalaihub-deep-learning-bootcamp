@@ -33,4 +33,4 @@ The results are analyzed in detail with the classification report and confusion 
 ![Figure 3](https://github.com/yunusarkan/globalaihub-deep-learning-bootcamp/blob/main/matrix.jpg)
 <p align="center">Figure 3</p>
 
-You can access the Kaggle notebook of the project from this link: https://www.kaggle.com/code/hilalkk/globalaihub-deep-learning-bootcamp .
+Kaggle notebook link: https://www.kaggle.com/code/hilalkk/globalaihub-deep-learning-bootcamp .
