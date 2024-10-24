@@ -1,4 +1,4 @@
-This project was done together with [Yunus Arkan](https://github.com/yunusarkan) for Global AI Hub's Deep Learning Bootcamp.
+This project done together with [Yunus Arkan](https://github.com/yunusarkan) for Global AI Hub's Deep Learning Bootcamp.
 In this project, a deep learning model was created using [a large-scale fish dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset) on Kaggle. 
 
 1. Data Loading and Preparation
@@ -33,4 +33,4 @@ The results are analyzed in detail with the classification report and confusion 
 ![Figure 3](https://github.com/yunusarkan/globalaihub-deep-learning-bootcamp/blob/main/matrix.jpg)
 <p align="center">Figure 3</p>
 
-Kaggle notebook link: https://www.kaggle.com/code/hilalkk/globalaihub-deep-learning-bootcamp .
+You can access the Kaggle notebook of the project from this [link](https://www.kaggle.com/code/hilalkk/globalaihub-deep-learning-bootcamp) .
